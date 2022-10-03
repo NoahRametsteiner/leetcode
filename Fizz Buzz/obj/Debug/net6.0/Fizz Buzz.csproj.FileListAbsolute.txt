@@ -1,0 +1,15 @@
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.exe
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.deps.json
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.runtimeconfig.json
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.pdb
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.csproj.AssemblyReference.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.AssemblyInfoInputs.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.AssemblyInfo.cs
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.csproj.CoreCompileInputs.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\refint\Fizz Buzz.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.pdb
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.genruntimeconfig.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Fizz Buzz\obj\Debug\net6.0\ref\Fizz Buzz.dll
