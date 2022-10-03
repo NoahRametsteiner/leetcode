@@ -1,0 +1,15 @@
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\bin\Debug\net6.0\Zigzag Conversion.exe
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\bin\Debug\net6.0\Zigzag Conversion.deps.json
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\bin\Debug\net6.0\Zigzag Conversion.runtimeconfig.json
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\bin\Debug\net6.0\Zigzag Conversion.dll
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\bin\Debug\net6.0\Zigzag Conversion.pdb
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.csproj.AssemblyReference.cache
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.AssemblyInfoInputs.cache
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.AssemblyInfo.cs
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.dll
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\refint\Zigzag Conversion.dll
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.pdb
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\Zigzag Conversion.genruntimeconfig.cache
+C:\Users\Notsch\Documents\Repo\Software-Engineering\Zigzag Conversion\obj\Debug\net6.0\ref\Zigzag Conversion.dll
