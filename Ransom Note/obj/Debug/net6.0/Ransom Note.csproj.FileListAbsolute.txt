@@ -1,0 +1,15 @@
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\bin\Debug\net6.0\Ransom Note.exe
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\bin\Debug\net6.0\Ransom Note.deps.json
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\bin\Debug\net6.0\Ransom Note.runtimeconfig.json
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\bin\Debug\net6.0\Ransom Note.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\bin\Debug\net6.0\Ransom Note.pdb
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.csproj.AssemblyReference.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.AssemblyInfoInputs.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.AssemblyInfo.cs
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.csproj.CoreCompileInputs.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\refint\Ransom Note.dll
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.pdb
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\Ransom Note.genruntimeconfig.cache
+C:\Users\Notsch\Desktop\A-L-L\Repo\leetcode\Ransom Note\obj\Debug\net6.0\ref\Ransom Note.dll
