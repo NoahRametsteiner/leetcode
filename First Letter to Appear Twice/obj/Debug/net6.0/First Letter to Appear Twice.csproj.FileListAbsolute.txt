@@ -1,0 +1,15 @@
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\bin\Debug\net6.0\First Letter to Appear Twice.exe
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\bin\Debug\net6.0\First Letter to Appear Twice.deps.json
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\bin\Debug\net6.0\First Letter to Appear Twice.runtimeconfig.json
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\bin\Debug\net6.0\First Letter to Appear Twice.dll
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\bin\Debug\net6.0\First Letter to Appear Twice.pdb
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.csproj.AssemblyReference.cache
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.AssemblyInfoInputs.cache
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.AssemblyInfo.cs
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.csproj.CoreCompileInputs.cache
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.dll
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\refint\First Letter to Appear Twice.dll
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.pdb
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\First Letter to Appear Twice.genruntimeconfig.cache
+C:\Users\Notsch\Documents\Repo\leetcode\First Letter to Appear Twice\obj\Debug\net6.0\ref\First Letter to Appear Twice.dll
