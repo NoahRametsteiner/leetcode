@@ -1,0 +1,15 @@
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\bin\Debug\net6.0\Roman to Integer.exe
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\bin\Debug\net6.0\Roman to Integer.deps.json
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\bin\Debug\net6.0\Roman to Integer.runtimeconfig.json
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\bin\Debug\net6.0\Roman to Integer.dll
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\bin\Debug\net6.0\Roman to Integer.pdb
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.csproj.AssemblyReference.cache
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.AssemblyInfo.cs
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.dll
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\refint\Roman to Integer.dll
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.pdb
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\Roman to Integer.genruntimeconfig.cache
+C:\Users\Notsch\Documents\Repo\leetcode\Roman to Integer\obj\Debug\net6.0\ref\Roman to Integer.dll
