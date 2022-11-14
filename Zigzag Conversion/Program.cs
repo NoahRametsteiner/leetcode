@@ -4,10 +4,10 @@ namespace Zigzag_Conversion {
     class Zigzag_Conversion {
         static void Main(string[] args) {
 
-            Console.WriteLine(zigzag("PAYPALISHIRING",4));
+            Console.WriteLine(GenerateZigZagString("PAYPALISHIRING",4));
         }
 
-        public static string zigzag(string s, int numRows) {
+        public static string GenerateZigZagString(string s, int numRows) {
                 string str="";
                 int colums = 0, strlen=s.Length;
                 

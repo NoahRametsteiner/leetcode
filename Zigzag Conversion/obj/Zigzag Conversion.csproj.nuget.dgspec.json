@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\leetcode\\Zigzag Conversion\\Zigzag Conversion.csproj": {}
+    "/media/notsch/4C1287EE1287DB7A/Users/Notsch/Documents/Repo/leetcode/Zigzag Conversion/Zigzag Conversion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\leetcode\\Zigzag Conversion\\Zigzag Conversion.csproj": {
+    "/media/notsch/4C1287EE1287DB7A/Users/Notsch/Documents/Repo/leetcode/Zigzag Conversion/Zigzag Conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\leetcode\\Zigzag Conversion\\Zigzag Conversion.csproj",
+        "projectUniqueName": "/media/notsch/4C1287EE1287DB7A/Users/Notsch/Documents/Repo/leetcode/Zigzag Conversion/Zigzag Conversion.csproj",
         "projectName": "Zigzag Conversion",
-        "projectPath": "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\leetcode\\Zigzag Conversion\\Zigzag Conversion.csproj",
-        "packagesPath": "C:\\Users\\Notsch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Notsch\\Desktop\\A-L-L\\Repo\\leetcode\\Zigzag Conversion\\obj\\",
+        "projectPath": "/media/notsch/4C1287EE1287DB7A/Users/Notsch/Documents/Repo/leetcode/Zigzag Conversion/Zigzag Conversion.csproj",
+        "packagesPath": "/home/notsch/.nuget/packages/",
+        "outputPath": "/media/notsch/4C1287EE1287DB7A/Users/Notsch/Documents/Repo/leetcode/Zigzag Conversion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Notsch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/notsch/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }
